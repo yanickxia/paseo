@@ -1,0 +1,9 @@
+
+ RUN  v4.1.7 /home/yanick/codes/opensource/paseo/.worktrees/custom-provider-resume-command
+
+
+ Test Files  1 passed (1)
+      Tests  9 passed (9)
+   Start at  15:35:54
+   Duration  211ms (transform 49ms, setup 0ms, import 94ms, tests 5ms, environment 0ms)
+
